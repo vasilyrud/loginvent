@@ -10,3 +10,14 @@ This prototype was tested with:
 * Bootstrap 3.2.0
 * RequireJS 2.1.14
 * jQuery 1.11.1
+
+Plugins/Libraries used:
+* FPDF 1.7
+* Google-API-PHP-Client
+* PHPQRCode 1.1.4
+* jQuery MD5 Plugin 1.2.1
+* jsQRCode
+* QR Decoder
+* JQuery UI 1.11.0
+* RequireJS domReady 2.0.1
+* list.js
