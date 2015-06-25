@@ -1,4 +1,4 @@
-![loginvent](img/log_invent.svg)
+![loginvent](img/log_invent.png)
 
 loginvent
 =========
