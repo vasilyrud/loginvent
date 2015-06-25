@@ -1,8 +1,5 @@
 ![loginvent](img/log_invent.png)
 
-loginvent
-=========
-
 NYU Abu Dhabi IDEA Lab Experimental Inventory System
 
 This prototype was tested with:
