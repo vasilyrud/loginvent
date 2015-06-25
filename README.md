@@ -1,3 +1,5 @@
+![alt tag](./img/log_invent.svg)
+
 loginvent
 =========
 
