@@ -1,4 +1,5 @@
 ![loginvent](img/log_invent.png)
+====
 
 NYU Abu Dhabi IDEA Lab Experimental Inventory System
 
